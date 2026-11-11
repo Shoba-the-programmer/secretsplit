@@ -1,0 +1,28 @@
+li {
+  display: inline;
+  background-color: #6b6375;
+  border-color: #08060d;
+  border: 2px;
+  margin: 3px;
+}
+
+.split_logo {
+  text-align: left;
+}
+
+.book_card {
+  border: 1px solid hsl(0, 0%, 80%);
+  border-radius: 10px;
+  box-shadow: 15px 15px 15px hsla(0, 0, 0, 0.5);
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+  width:250px;
+  height: 400px;
+  display: inline-block;
+}
+
+.book_card .bookCoverImage {
+  width:200px;
+  height: 300px;
+}
